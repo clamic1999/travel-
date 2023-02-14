@@ -257,7 +257,7 @@ hr{
 }
 @media screen and (max-width: 500px){
     header{
-        width: 94%;
+        width: 100%;
     }   
     .master .navbar{
         display: block;
